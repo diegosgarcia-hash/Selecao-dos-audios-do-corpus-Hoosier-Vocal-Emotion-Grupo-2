@@ -1,0 +1,1 @@
+# Selecao-dos-audios-do-corpus-Hoosier-Vocal-Emotion-Grupo-2
