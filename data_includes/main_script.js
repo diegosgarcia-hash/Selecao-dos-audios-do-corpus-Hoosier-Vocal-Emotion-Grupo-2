@@ -44,6 +44,8 @@ Header(
         ,
         newText("<p></p>")
         ,
+        newText("<p style='text-align:center;'><strong>SEU NOME:</strong></p>")
+        ,
         newTextInput("Nome")
         ,
         newText("<p></p>")
